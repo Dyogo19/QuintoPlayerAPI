@@ -1,8 +1,12 @@
 package com.dyogo.quintoplayer.dto;
 
+import lombok.Getter;
+import lombok.Setter;
+
 /**
  * DTO que representa os dados atualizados de um usuário.
  */
+
 public record UsuarioUpdateDTO(
         String nome,                 // O novo nome do usuário.
         String email,                // O novo email do usuário.

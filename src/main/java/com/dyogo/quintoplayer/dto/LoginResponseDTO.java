@@ -1,10 +1,13 @@
 package com.dyogo.quintoplayer.dto;
 
 
+import lombok.Getter;
+import lombok.Setter;
 
 /**
  * DTO que representa os detalhes de uma resposta de login.
  */
+
 public record LoginResponseDTO(
         Integer id,                   // O ID do usuário.
         String email,                 // O email do usuário.

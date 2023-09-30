@@ -1,10 +1,14 @@
 package com.dyogo.quintoplayer.dto;
 
+import lombok.Getter;
+import lombok.Setter;
+
 import java.time.LocalDateTime;
 
 /**
  * DTO que representa os detalhes de um jogo.
  */
+
 public record JogoDTO(
         Integer id,                              // O ID do jogo.
         String descricao,                        // A descrição do jogo.
