@@ -17,9 +17,9 @@ Esta aplicação foi desenvolvida para simplificar o gerenciamento de partidas e
 
 ## Requisitos
 
-- **Certifique-se de ter pelo menos o Java 8 instalado para executar esta aplicação,
-- **Certifique-se de ter instalado Android Studio para executar esta aplicação,
-- **Certifique-se de ter instalado SDK e JDK para executar esta aplicação
+- Certifique-se de ter pelo menos o Java 8 instalado para executar esta aplicação,
+- Certifique-se de ter instalado Android Studio para executar esta aplicação,
+- Certifique-se de ter instalado SDK e JDK para executar esta aplicação
 
 ## Execute no Android Studio, criando um emulador e dando run no projeto
 
