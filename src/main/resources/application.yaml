@@ -1,0 +1,16 @@
+spring:
+    datasource:
+        username: admin
+        password: quintoplayer
+        url: jdbc:mysql://database-1.cxlu0n4lrrwi.us-east-1.rds.amazonaws.com:3306/quintoplayer
+        driverClassName: com.mysql.cj.jdbc.Driver
+    jpa:
+        hibernate:
+            ddl-auto: update
+        properties:
+            hibernate:
+                dialect: org.hibernate.dialect.MySQLDialect
+    data:
+        redis:
+            host: localhost
+            port: 8080
