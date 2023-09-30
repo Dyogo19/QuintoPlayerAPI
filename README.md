@@ -68,7 +68,7 @@ Para estabelecer uma conexão com o banco de dados, siga os passos abaixo:
 3. Escolha a opção "Data Source from URL".
 
 4. Preencha os seguintes campos:
-   - **URL**: Utilize a URL do banco de dados conforme definida em seu arquivo `application.yaml`.
+   - **URL**: Utilize a URL do banco de dados conforme definida no arquivo `application.yaml`.
    - **Coloque esta URL "jdbc:mysql://database-1.cxlu0n4lrrwi.us-east-1.rds.amazonaws.com:3306".
    - **Driver**: Selecione o driver correspondente ao banco de dados que você estamos usando (por exemplo, MySQL).
 
